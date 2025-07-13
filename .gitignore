@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+products_data.json
+*.log
+chromedriver.exe
+.env
